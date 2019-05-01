@@ -1,4 +1,5 @@
 def prime?(n)
   if n <= 1 
-    return false
+    return false 
+  else n
 end
